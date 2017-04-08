@@ -1,0 +1,8 @@
+dag     gewerkte uren 	ideale lijn
+7  	32  		38
+6  	27  		36
+5  	21  		30
+4  	16  		21 
+3  	10  		15
+2  	5   		12
+1  	0   		0
